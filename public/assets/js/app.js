@@ -18,6 +18,7 @@ let header = $(`
    <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
    <li class="nav-item"><a class="nav-link" href="aboutus.html">About Us</a></li>
    <li class="nav-item"><a class="nav-link" href="projects.html">Projects</a></li>
+   <li class="nav-item"><a class="nav-link" href="faqs.html">FAQs</a></li>
   </ul>
 </div>
 </nav>`);
